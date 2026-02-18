@@ -36,17 +36,10 @@
                     <fieldName>thread</fieldName>
                 </threadName>
 
-                <message>
-                    <fieldName>message</fieldName>
-                </message>
+                <message/>
 
-                <stackTrace>
-                    <fieldName>exception</fieldName>
-                </stackTrace>
-
-                <mdc>
-                    <fieldName>tags</fieldName>
-                </mdc>
+                <stackTrace/>
+                <mdc/>
 
                 <loggerContextName>
                     <fieldName>context</fieldName>
