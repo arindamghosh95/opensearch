@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: opensearch
+
+server:
+  port: 8080
+
+logging:
+  file:
+    path: ./logs
+
+  level:
+    root: info
+    org.example: DEBUG
